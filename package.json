@@ -1,0 +1,23 @@
+{
+  "name": "sg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "child_process": "^1.0.2",
+    "chrome-launcher": "^0.13.3",
+    "lighthouse": "^6.0.0",
+    "lodash": "^4.17.15",
+    "typescript": "^3.9.5"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.155",
+    "ts-node": "^8.10.2"
+  }
+}
